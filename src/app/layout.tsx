@@ -30,7 +30,6 @@ export default function RootLayout({
       > 
         <p>Yeh Layout hai</p>
         {children}
-        <h1>Hello Muhammad Hanzala Ali</h1>
         
       </body>
     </html>
